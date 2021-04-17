@@ -8,5 +8,3 @@
 - 📫 How to reach me: ashish.prasad1@yandex.com
 - ⚡ Fun fact: I love Java, be it in form of coffee or codes.
 
-
-https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java
