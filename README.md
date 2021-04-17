@@ -44,9 +44,19 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
 
  
 <br/>
+
+** My recent blog posts on [thevirtualcodes.com](https://www.thevirtualcodes.com/) **
+<!-- BLOG-POST-LIST:START -->
+- [Reading a dataset to analyse air quality index](https://www.thevirtualcodes.com/post/r-programming-week-2-assignment-1)
+- [Hadoop Ecosystem](https://www.thevirtualcodes.com/post/hadoop-ecosystem)
+- [Java Memory Management](https://www.thevirtualcodes.com/post/java-memory-management)
+
+<!-- BLOG-POST-LIST:END -->
+
+**[thevirtualcodes.com](https://www.thevirtualcodes.com/)**
+
 <br/>
 
 <p align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theprogrammedwords?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge"></p>
-
 
 <p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=theprogrammedwords&style=flat-square"></p>
