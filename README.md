@@ -45,7 +45,7 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
  
 <br/>
 
-** My recent blog posts on [thevirtualcodes.com](https://www.thevirtualcodes.com/) **
+**My recent blog posts on [thevirtualcodes.com](https://www.thevirtualcodes.com/)**
 <!-- BLOG-POST-LIST:START -->
 - [Reading a dataset to analyse air quality index](https://www.thevirtualcodes.com/post/r-programming-week-2-assignment-1)
 - [Hadoop Ecosystem](https://www.thevirtualcodes.com/post/hadoop-ecosystem)
