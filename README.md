@@ -7,3 +7,7 @@
 - 💬 Ask me about EC2/ Salesforce or ETL/ Data Migration.
 - 📫 How to reach me: ashish.prasad1@yandex.com
 - ⚡ Fun fact: I love Java, be it in form of coffee or codes.
+
+* 🐛 for raising a bug
+* 💻 for submitting code
+* 📖 for docs contributions etc.
