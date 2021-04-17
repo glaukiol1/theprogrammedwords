@@ -13,6 +13,8 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="500" height="320" />
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Automation at TIBCO Inc.
 - 🌱 I’m currently learning Development using MERN Stack.
@@ -24,8 +26,7 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
   
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 📈 My GitHub Stats
 
