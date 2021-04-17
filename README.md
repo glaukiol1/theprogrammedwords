@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://komarev.com/ghpvc/?username=theprogrammedwords)
+
 <a href="https://twitter.com/ashtvi">
   <img align="left" alt="Ashish's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -34,4 +34,4 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
 <br/>
 <br/>
 
-<p align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theprogrammedwords?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge"> </p>
+<p align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theprogrammedwords?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    ![](https://komarev.com/ghpvc/?username=theprogrammedwords&style=for-the-badge)</p>
