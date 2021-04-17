@@ -7,8 +7,10 @@
 </a>
 <br/>
 <br/>
+
 Hi, I'm Ashish Prasad,an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
 
+<br/>
 <br/>
 
 
