@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ashishprasadrknec">
   <img align="left" alt="Ashish's LinkediN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
+<br/>
 
 
 - 🔭 I’m currently working on Automation at TIBCO Inc.
