@@ -26,3 +26,6 @@
 <br/>
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theprogrammedwords?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">
+
+
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprogrammedwords)](https://github.com/anuraghazra/github-readme-stats)
