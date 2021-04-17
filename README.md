@@ -3,7 +3,7 @@
   <img align="left" alt="Ashish's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ashishprasadrknec">
-  <img align="left" alt="Ashish's LinkediN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ashish's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
 <br/>
@@ -19,6 +19,8 @@
   
 <br/>
 <br/>
+
+Hi, I'm [Ashish Prasad](https://www.thevirtualcodes.com/),an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 📈 My GitHub Stats
