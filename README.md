@@ -29,4 +29,4 @@
 
 
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprogrammedwords&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/theprogrammedwords/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammedwords&layout=compact)](https://github.com/theprogrammedwords/github-readme-stats) 
-[![Ashish's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theprogrammedwords)](https://github.com/theprogrammedwords/github-readme-stats)
+
