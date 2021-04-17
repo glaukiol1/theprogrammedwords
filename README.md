@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, My name is Ashish Prasad, an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="500" height="320" />
