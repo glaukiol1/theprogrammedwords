@@ -10,11 +10,9 @@
 <br/>
 
 Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
+<br/>
+<br/>
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="500" height="320" />
-
-<br/>
-<br/>
-  
 
 - 🔭 I’m currently working on Automation at TIBCO Inc.
 - 🌱 I’m currently learning Development using MERN Stack.
@@ -24,6 +22,8 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
 - 📫 How to reach me: ashish.prasad1@yandex.com or [@ashtvi](https://twitter.com/ashtvi)
 - ⚡ Fun fact: I love Java, be it in form of coffee or codes.
   
+<br/>
+<br/>
 <br/>
 <br/>
 
