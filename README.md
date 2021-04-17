@@ -27,7 +27,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprogrammedwords&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/theprogrammedwords/github-readme-stats) 
+<p align="center"> [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprogrammedwords&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/theprogrammedwords/github-readme-stats) </p>
   
 <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammedwords&layout=compact)](https://github.com/theprogrammedwords/github-readme-stats) 
 
