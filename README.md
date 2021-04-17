@@ -28,4 +28,4 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&hide=prs,issues,contribs" alt="theprogrammedwords" />
+<img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&hide=prs,issues,contribs" alt="theprogrammedwords" />
