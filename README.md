@@ -52,6 +52,8 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
 <!-- BLOG-POST-LIST:END -->
 
 **[thevirtualcodes.com](https://www.thevirtualcodes.com/)**
+**[dev.to](https://dev.to/theprogrammedwords)**
+
 
 <br/>
 
