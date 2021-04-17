@@ -13,7 +13,8 @@ Hi, I'm Ashish Prasad, an experienced professional possessing the skills of both
 
 <br/>
 <br/>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 
 - 🔭 I’m currently working on Automation at TIBCO Inc.
 - 🌱 I’m currently learning Development using MERN Stack.
