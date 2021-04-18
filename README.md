@@ -1,4 +1,6 @@
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br/>
 <a href="https://twitter.com/ashtvi">
   <img align="left" alt="Ashish's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -8,8 +10,6 @@
 
 
 <br/>
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <br/>
 
 Hi, My name is Ashish Prasad, an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
