@@ -64,4 +64,4 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 
 <p align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theprogrammedwords?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge"> </p>
 
-<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=theprogrammedwords&style=flat-square"></p>
+<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=theprogrammedwords&style=flat-square"></p> 
