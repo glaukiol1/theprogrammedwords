@@ -20,8 +20,7 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 
 - 🔭 I’m currently working on Automation at TIBCO Inc.
 - 🌱 I’m currently learning Development using MERN Stack.
-- 👯 I’m looking to collaborate on Full Stack Projects/Data Analytics/ Salesforce/ Android Development.
-- 🤔 I’m open for opportunities related to Web Development.
+- 👯 I’m looking to collaborate on Data Analytics/ Salesforce/ Android Development.
 - 💬 Ask me about EC2/ Salesforce or ETL/ Data Migration.
 - 📫 How to reach me: ashish.prasad1@yandex.com or [@ashtvi](https://twitter.com/ashtvi)
 - ⚡ Fun fact: I love Java, be it in form of coffee or codes.
