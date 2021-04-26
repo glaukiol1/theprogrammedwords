@@ -18,7 +18,7 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="500" height="320" />
 <br/>
 
-- 🔭 I’m currently working on Automation at TIBCO Inc.
+- 🔭 I’m currently working on Automation (QE) at TIBCO Inc.
 - 🌱 I’m currently learning Development using MERN Stack.
 - 👯 I’m looking to collaborate on Data Analytics/ Salesforce/ Android Development.
 - 💬 Ask me about EC2/ Salesforce or ETL/ Data Migration.
