@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/theprogrammedwords/theprogrammedwords/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br/>
+<a href="https://twitter.com/ashtvi">
+  <img align="left" alt="Ashish's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ashishprasadrknec">
+  <img align="left" alt="Ashish's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<br/>
+<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi, My name is Ashish Prasad, an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
+<br/>
+<br/>
+<img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="500" height="320" />
+<br/>
 
-```markdown
-Syntax highlighted code block
+- 🔭 I’m currently working on Automation at TIBCO Inc.
+- 🌱 I’m currently learning Development using MERN Stack.
+- 👯 I’m looking to collaborate on Data Analytics/ Salesforce/ Android Development.
+- 💬 Ask me about EC2/ Salesforce or ETL/ Data Migration.
+- 📫 How to reach me: ashish.prasad1@yandex.com or [@ashtvi](https://twitter.com/ashtvi)
+- ⚡ Fun fact: I love Java, be it in form of coffee or codes.
+  
+<br/>
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+**Languages and Tools:**  
 
-- Bulleted
-- List
+<code><img height="20" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/java_logo_640.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+📈 My GitHub Stats
 
-[Link](url) and ![Image](src)
-```
+<img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&hide=prs" alt="theprogrammedwords" />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
+<br/>
 
-### Jekyll Themes
+**My recent blog posts on [thevirtualcodes.com](https://www.thevirtualcodes.com/)**
+<!-- BLOG-POST-LIST:START -->
+- [Reading a dataset to analyse air quality index](https://www.thevirtualcodes.com/post/r-programming-week-2-assignment-1)
+- [Hadoop Ecosystem](https://www.thevirtualcodes.com/post/hadoop-ecosystem)
+- [Java Memory Management](https://www.thevirtualcodes.com/post/java-memory-management)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theprogrammedwords/theprogrammedwords/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- BLOG-POST-LIST:END -->
 
-### Support or Contact
+**[thevirtualcodes.com](https://www.thevirtualcodes.com/)**
+<br/>
+**[dev.to](https://dev.to/theprogrammedwords)**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<br/>
+
+<p align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theprogrammedwords?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/theprogrammedwords/Algorithm-Solutions-Java?style=for-the-badge"> </p>
+
+<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=theprogrammedwords&style=flat-square"></p> 
