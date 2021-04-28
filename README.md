@@ -41,7 +41,7 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 
 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&hide=prs" alt="theprogrammedwords" />
+<img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&" alt="theprogrammedwords" />
 
  
 <br/>
