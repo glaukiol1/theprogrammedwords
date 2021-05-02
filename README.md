@@ -52,7 +52,7 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 - [Hadoop Ecosystem](https://www.geeksforgeeks.org/hadoop-ecosystem/)
 - [Java Memory Management](https://www.geeksforgeeks.org/java-memory-management/)
 - [Vector Iterator in Java](https://www.geeksforgeeks.org/vector-iterator-method-in-java-with-examples/)
-- [D3.js](https://www.geeksforgeeks.org/d3-js-data-driven-documents/)
+- [D3.js (Data driven Documents](https://www.geeksforgeeks.org/d3-js-data-driven-documents/)
 - [How to write a pseudo code](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
 
 <!-- BLOG-POST-LIST:END -->
