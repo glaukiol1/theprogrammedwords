@@ -49,8 +49,11 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 **My recent blog posts on [thevirtualcodes.com](https://www.thevirtualcodes.com/)**
 <!-- BLOG-POST-LIST:START -->
 - [Reading a dataset to analyse air quality index](https://www.thevirtualcodes.com/post/r-programming-week-2-assignment-1)
-- [Hadoop Ecosystem](https://www.thevirtualcodes.com/post/hadoop-ecosystem)
-- [Java Memory Management](https://www.thevirtualcodes.com/post/java-memory-management)
+- [Hadoop Ecosystem](https://www.geeksforgeeks.org/hadoop-ecosystem/)
+- [Java Memory Management](https://www.geeksforgeeks.org/java-memory-management/)
+- [Vector Iterator in Java](https://www.geeksforgeeks.org/vector-iterator-method-in-java-with-examples/)
+- [D3.js](https://www.geeksforgeeks.org/d3-js-data-driven-documents/)
+- [How to write a pseudo code](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
 
 <!-- BLOG-POST-LIST:END -->
 
